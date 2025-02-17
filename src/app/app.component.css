@@ -1,0 +1,15 @@
+/* Custom styles for header */
+.navbar {
+    background-color: #0800ff; /* Bootstrap primary color */
+}
+
+/* Custom styles for footer */
+footer {
+    background-color: #413dbf; /* Bootstrap primary color */
+    color: rgb(255, 255, 255);
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
